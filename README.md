@@ -82,4 +82,4 @@
 
 教程原文请关注我的微信公众号【卧梅又闻花】，
 
-查阅本项目完整教程：[《2023新春版：看这篇大宝典就够了！从零搭建React项目全家桶》](https://mp.weixin.qq.com/s/LaB4Mzm4E6GvHGzcgihh9g)
+查阅本项目完整教程：[《2023新春版：看这篇大宝典就够了！从零搭建React项目全家桶》](https://mp.weixin.qq.com/s/JvXJ-rtLQpCYUyAS9NhAFA)
